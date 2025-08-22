@@ -10,6 +10,5 @@ PumpSwap is a decentralized exchange (DEX) protocol designed to facilitate autom
 
 
 ### Contact Information
-- Telegram: https://t.me/DevCutup
-- Whatsapp: https://wa.me/13137423660
-- Twitter: https://x.com/devcutup
+- Telegram: https://t.me/Rust0x_726
+
